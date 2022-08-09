@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[21],{eFSy:function(a,t,n){"use strict";n.r(t);var E=n("q1tI"),e=n.n(E),u=n("nKUr"),r=n.n(u),d=function(){return Object(u.jsx)("div",{style:{textAlign:"center"},children:"\u6B22\u8FCE\u4F7F\u7528\u7CFB\u7EDF\u7BA1\u7406\u6A21\u5757"})};t.default=d}}]);

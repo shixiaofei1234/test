@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{"+ego":function(r,t,n){"use strict";n.r(t);var E=n("q1tI"),d=n.n(E),a=n("nKUr"),o=n.n(a);t.default=function(c){return Object(a.jsx)("div",{className:"mirco-app-container",children:c.children})}}}]);
